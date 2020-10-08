@@ -1,0 +1,1 @@
+document.getElementsByClassName("-wiki-tag")[0].style = "display: none"
